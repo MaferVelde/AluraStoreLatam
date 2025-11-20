@@ -9,7 +9,19 @@ Este proyecto ha sido creado para analisar la información que tenemos de 4 tien
 ## Instalación y uso
 
 No es requerida instalación, para ejecutar el programa es necesario crear una cuenta de Google , entrar a colab y abrir el archivo.
-Al entrar encontramos la información dividida en varios puntos, de esa manera es mas sencillo observar y coprender paso a paso nuestra elección final.
+
+## Estructura del proyecto
+
+Al entrar encontramos la información dividida en varios puntos. Comenzamos con la introducción en donde explicamos el proposito del proyecto, despues continuamos con el desglose de la información obtenida de cada tienda. 
+El desarrollo del análisis está dividido en 6 puntos:
+1. Análisis de facturación
+2. Ventas por categoría
+3. Calificación promedio de la tienda
+4. Productos más y menos vendidos
+5. Envío promedio por tienda
+6. Análisis del desempeño geográfico
+
+Al final cerramos con la conclusión de nuestro análisis.
 
 ## Autor
 
